@@ -27,3 +27,9 @@ Learn how to add a button to an Android app that rolls dice. You'll write Kotlin
  - Create a Dice Roller Android app with a Button
  - Add Conditional Behavior for Different Dice Rolls
  - Add dice images to the Dice Roller app
+
+
+## Kotlin style guide
+This document serves as the complete definition of Google’s Android coding standards for source code in the Kotlin Programming Language.
+
+https://developer.android.com/kotlin/style-guide
