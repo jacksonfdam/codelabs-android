@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Codelab02</string>
+    <string name="happy_birthday_text">Happy Birthday Jack!</string>
+    <string name="signature_text">From my self.</string>
 </resources>
