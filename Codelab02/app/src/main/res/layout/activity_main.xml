@@ -29,7 +29,12 @@
         android:fontFamily="sans-serif-light"
         android:text="@string/happy_birthday_text"
         android:textColor="@android:color/white"
+        android:textStyle="bold"
         android:textSize="36sp"
+        android:shadowColor="@color/black"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
