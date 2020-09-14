@@ -1,11 +1,16 @@
 # Google Codelabs
 
 
+## Android Basics in Kotlin
+Welcome to Android Basics in Kotlin! In this five-unit course, you learn the basics of building Android apps with the Kotlin programming language and develop a collection of simple apps to start your journey as an Android developer.
+
+https://developer.android.com/courses/android-basics-kotlin/course
+
+
 ## Android Kotlin Fundamentals Course
 Android Kotlin Fundamentals leads you through a series of codelabs that teach you the fundamentals of building Android apps in Kotlin. You'll also learn to use Android Jetpack components such as Room for databases, Work Manager for background processing, the new Navigation component, and more. To take this course, we recommend having some familiarity with the basics of the Kotlin programming language and at least two years of experience in an object-oriented programming language.
 
 https://codelabs.developers.google.com/android-kotlin-fundamentals/
-
 
 
 **Android Kotlin Fundamentals: Welcome to the course - 0 min**- [open](https://codelabs.developers.google.com/codelabs/kotlin-android-training-welcome/index.html?index=..%2F..android-kotlin-fundamentals)

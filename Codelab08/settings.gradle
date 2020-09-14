@@ -1,0 +1,2 @@
+rootProject.name = "Codelab08"
+include ':app'
